@@ -9,3 +9,4 @@ Database/Datastructure: Javascript object.
 Front-end: Designed and coded by Jacqueline Medley.
 
 Back-end: Coded by Jacqueline Medley and Eduardo de Leon.
+
